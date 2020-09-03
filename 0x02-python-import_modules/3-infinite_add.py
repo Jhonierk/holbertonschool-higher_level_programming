@@ -5,4 +5,4 @@ if __name__ == "__main__":
     total = 0
     for i in range(1, num_args):
         total += int(argv[i])
-    print("{:d}".format(total)) 
+    print("{:d}".format(total))
